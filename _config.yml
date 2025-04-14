@@ -10,7 +10,7 @@ email: "muzia.k888@gmail.com"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "alabaster"
+theme: "minima"
 
 rss: rss
 
