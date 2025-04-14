@@ -1,4 +1,4 @@
-## Math + X (Interconnectivity Project)
+##  Math + X (Interconnectivity Project)
 
 This project was started with the goal of encouraging kids to keep an open mid about maths and not lose interest in the subject too early on. 
 
