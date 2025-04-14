@@ -4,4 +4,12 @@ This project was started with the goal of encouraging kids to keep an open mid a
 
 ### Phase 1 Math and Art
 
+ 
+ ```tsql
+ SELECT *
+ FROM sys.tables
+ WHERE [name] = 'SomeTable'
+ ```
+
+
 
